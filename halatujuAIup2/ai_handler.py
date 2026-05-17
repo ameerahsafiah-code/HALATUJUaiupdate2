@@ -31,7 +31,7 @@ class AIHandler:
         {{
             "skor_kesesuaian": 85,
             "status_trend_kerjaya": "Sila nyatakan status trend pekerjaan bidang ini dalam {lang} (cth: Sangat Diperlukan / Stabil)",
-            "cadangan_kursus_universiti": "Senarai kursus atau fakulti yang berkaitan di universiti (utamakan Universiti Kebangsaan Malaysia - UKM jika sesuai) dalam {lang}",
+            "cadangan_kursus_universiti": "Senarai kursus atau fakulti dan nama singkatan universiti  yang berkaitan di universiti (sekurang-kurangnyatigauniversiti berlainan dan utamakan Universiti Kebangsaan Malaysia - UKM jika sesuai) dalam {lang}",
             "prospek_kerjaya": "Ulasan padat tentang peluang pekerjaan dan bidang tugas masa depan dalam {lang}",
             "swot_pelajar": {{
                 "kekuatan": ["Kelebihan/kemahiran yang perlu ada 1", "Kelebihan/kemahiran yang perlu ada 2"],
